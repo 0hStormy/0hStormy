@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Kinda-Stormy/kinda-stormy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on mcdiamondfire.net and my website
 - 🌱 I’m currently learning java/kotlin and python
 - 👯 I’m looking to collaborate on nothing right now
