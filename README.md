@@ -1,8 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on pyShell and my website
-- 🌱 I’m currently learning HTML/CSS and Python
-- 🤔 I’m looking for help with HTML and Python
-- 💬 Ask me about Linux or Minecraft servers
-- 📫 How to reach me: Github
-- 😄 Pronouns: He/They
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinda-stormy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
