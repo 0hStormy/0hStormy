@@ -1,4 +1,5 @@
 # 0Stormy
 Welcome to my github profile, I make random crap and post it here.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hStormy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## What I use
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,md,py,raspberrypi,figma,linux,vscodium)](https://skillicons.dev)
